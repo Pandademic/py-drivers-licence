@@ -28,4 +28,4 @@ address.pack()
 phoneNum=Label(root,text="PHONE NUMBER:"+fake.phone_number())
 phoneNum.pack()
 job=Label(root,text="OCUPATTION:"+fake.job())
-root.mainloop(
+root.mainloop()
