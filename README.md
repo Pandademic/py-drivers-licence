@@ -1,6 +1,14 @@
 # py-drivers-licence
+
+## ABOUT
+
 python drivers license app made with tkinter featuring fake data 
 
+## DEPENDENCIES
+
+- [Faker](https://pypi.org/project/Faker/)
+
+- [rbende's sun valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
 -----
 
 ## SCREENSHOTS
